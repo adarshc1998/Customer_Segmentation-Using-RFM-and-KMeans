@@ -15,4 +15,4 @@ Section:
 2. data wrangling or preprocessing
 3. data modelling
 4. data visualization
-5. summary
+5. summary 
