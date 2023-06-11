@@ -1,5 +1,10 @@
 # Identifying-target-customer-segments-using-a-two-stage-RFM-and-KMeans
 
+![customer-segmentation-gif-2-3](https://github.com/adarshc1998/Identifying-target-customer-segments-using-a-two-stage-RFM-and-KMeans/assets/82589860/871824a6-3ef6-4921-8f8a-a16f979dc2b3)
+
+Reference : Google Photos
+
+
 The company's primary focus is not on how to get new potential customers but how to sell 
 more products to the existing customers because the cost that companies must incur to acquire 
 new customers is much more expensive than to retain existing customers. Therefore, this repository is all about
